@@ -1,0 +1,6 @@
+carrito-12
+cuchara-2
+tina-5
+cama-120
+mes-80
+carro-65
